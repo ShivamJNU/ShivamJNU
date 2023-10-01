@@ -59,7 +59,7 @@
 </div>
 
 
-<h2 align="left">My Github Stats </h2>
+<!--<h2 align="left">My Github Stats </h2>
 
 
 [![Shivam Pratap Srivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayKalyanam&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/PranayKalyanam/github-readme-stats)
@@ -77,4 +77,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dcom5bsocesplfwdclhgtzn3i&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false&bar_color=464946)](https://github.com/kittinan/spotify-github-profile)
 
 
-###
+###-->
