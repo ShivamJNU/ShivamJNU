@@ -15,7 +15,7 @@
   </a>
   <!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
   </a> a-->
-<a href="https://www.leetcode.com/https://leetcode.com/shivamprataphcs/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamprataphcs/" height="40" width="52" />
+<a href="https://leetcode.com/shivamprataphcs/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamprataphcs/" height="40" width="52" />
   </a>
 </div>
 
