@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Shivam Pratap Srivastava</h3>
+<h3 align="left">I'm Shivam Srivastava</h3>
 
 ###
 
