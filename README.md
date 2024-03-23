@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Tech I'm fluent with</h2>
+<!--<h2 align="left">Tech I'm fluent with</h2>
 
 ###
 
@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
             
-</div>
+</div>-->
 
 
 <!--<h2 align="left">My Github Stats </h2>
