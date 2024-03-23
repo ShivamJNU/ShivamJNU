@@ -6,13 +6,14 @@
 
 ###
 
-<div align="center">
+<div style="text-align: center;">
   <a href="https://www.linkedin.com/in/shivam-pratap-srivastava/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/shivam.shrivatsa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  
   <!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
   </a> a-->
 
