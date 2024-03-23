@@ -13,14 +13,14 @@
   <a href="https://www.instagram.com/shivam.shrivatsa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  
-  <!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
-  </a> a-->
 
 <a href="https://leetcode.com/shivamprataphcs/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamprataphcs/" height="40" width="52" />
   </a>
 <a href="https://codeforces.com/profile/ShivamJNU" target="blank"><img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="https://codeforces.com/profile/ShivamJNU" height="40" width="52" />
   </a>
+
+<!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
+  </a> a-->
 
 </div>
 
