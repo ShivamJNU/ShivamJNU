@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🏦 I'm a Electronics and Communication Engineering undergrad trying to improve my problem solving skills.<br>🔭 I’m currently working on developing my skills in the field of DSA and Competitive Programming.<!--<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills.<br>-->📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
+<p align="left">🏦 I'm a Electronics and Communication Engineering undergrad trying to improve my problem solving skills.<br>🔭 I’m currently working on developing my skills in the field of DSA and Competitive Programming.<!--<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills.<br>--><br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
 
 ###
 
