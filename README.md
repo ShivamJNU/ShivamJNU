@@ -15,8 +15,12 @@
   </a>
   <!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
   </a> a-->
+<a href="https://codeforces.com/profile/ShivamJNU" target="blank"><img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="https://codeforces.com/profile/ShivamJNU" height="40" width="52" />
+  </a>
+  
 <a href="https://leetcode.com/shivamprataphcs/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamprataphcs/" height="40" width="52" />
   </a>
+
 </div>
 
 ###
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">🏦 I'm a Electronics and Communication Engineering undergrad trying to improve my problem solving skills.<br>🔭 I’m currently working on developing my skills in the field of DSA and Competitive Programming.<!--<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills.<br>--><br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
+<p align="left">🏦 I'm an Electronics and Communication Engineering undergrad trying to improve my problem solving skills.<br>🔭 I’m currently working on developing my skills in the field of DSA and Competitive Programming.<!--<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills.<br>--><br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
 
 ###
 
