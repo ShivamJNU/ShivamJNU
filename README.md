@@ -6,10 +6,11 @@ I'm a **Software Development Engineer** with a strong backend focus, currently w
 - **B.Tech, Jawaharlal Nehru University (2025)**
 
 💻 **What I work with**
-- **Backend:** Java, Spring Boot, Hibernate, MySQL
-- **Web:** JavaScript, React, Node.js, Express
+- **Languages:** C, C++, Java, JavaScript
+- **Backend Development:** Spring Boot, Node.js, Express, Hibernate
+- **Frontend Development:** Bootstrap, ReactJS
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, Linux, IntelliJ IDEA, VS Code
+- **Tools:** Git, GitHub, Linux, IntelliJ IDEA, VS Code, Google AI Studio
 
 🚀 **Experience**
 - Built secure authentication & authorization APIs using **Spring Security (JWT / OAuth2)**
