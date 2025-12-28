@@ -4,7 +4,7 @@ I’m a **Software Development Engineer** who enjoys building **high-performance
 Currently working at **Newton School**, with a strong foundation in **system design, competitive programming, and production-grade backend engineering**.
 
 🎓 **Education**
-- **B.Tech, School of Engineering — Jawaharlal Nehru University (2021–2025)**
+- **B.Tech, School of Engineering — JNU (2021–2025)**
 
 💻 **Tech Stack**
 - **Languages:** C, C++, Java, JavaScript  
