@@ -1,84 +1,40 @@
-<h1 align="left">Hi there! 👋</h1>
+## Hi, I'm Shivam Srivastava 👋
 
-###
+I'm a **Software Development Engineer** with a strong backend focus, currently working at **Newton School**. I enjoy building scalable systems, designing clean APIs, and solving complex problems using efficient algorithms.
 
-<h3 align="left">I'm Shivam Srivastava</h3>
+🎓 **Education**
+- **B.Tech, Jawaharlal Nehru University (2025)**
 
-###
+💻 **What I work with**
+- **Backend:** Java, Spring Boot, Hibernate, MySQL
+- **Web:** JavaScript, React, Node.js, Express
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Linux, IntelliJ IDEA, VS Code
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shivam-pratap-srivastava/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/shivam.shrivatsa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://leetcode.com/shivamprataphcs/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamprataphcs/" height="40" width="52" />
-  </a>
-  <a href="https://codeforces.com/profile/ShivamJNU" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="https://codeforces.com/profile/ShivamJNU" height="40" width="52" />
-  </a>
+🚀 **Experience**
+- Built secure authentication & authorization APIs using **Spring Security (JWT / OAuth2)**
+- Developed backend microservices for **KYC, onboarding, and profile management**
+- Designed RESTful APIs and optimized database interactions for production systems
 
-<!-- <a href="https://www.codechef.com/users/shivam_jnu" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam_jnu" height="40" width="52" />
-  </a> a-->
+🏆 **Achievements**
+- 2× **ICPC Regionalist** (Kanpur & Amritapuri)
+- **Specialist @ Codeforces** (1526 max rating)
+- **Knight @ LeetCode** (Top 5%)
+- **4★ @ CodeChef** (1915 max rating)
+- **Amazon ML Summer School 2024**
+- **GATE CS 2024 Qualified**
 
-</div>
+📌 **Notable Projects**
+- **AlgoSimulator** – Graph & pathfinding algorithm visualizer (BFS, DFS, Dijkstra, A*)
+- **TheFoodApp** – Full-stack restaurant management system (Node.js, MongoDB, JWT)
+- **MetroPathFinder** – C++ based shortest-path system for Delhi Metro using Dijkstra
 
-###
+🧠 I’m passionate about:
+- Backend architecture & system design  
+- Competitive programming & problem solving  
+- Writing clean, maintainable, production-ready code  
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🏦 I'm an Electronics and Communication Engineering undergrad trying to improve my problem solving skills.<br>🔭 I’m currently working on developing my skills in the field of DSA and Competitive Programming.<!--<br>👯 I’m looking to collaborate on open-source projects that come under the domain of my skills.<br>--><br>📫 How to reach me: Above linked socials, feel free to reach me out!<br>😄 Pronouns: He/Him.</p>
-
-###
-
-<!--<h2 align="left">Tech I'm fluent with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-            
-</div>-->
-
-
-<!--<h2 align="left">My Github Stats </h2>
-
-
-[![Shivam Pratap Srivastava's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayKalyanam&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/PranayKalyanam/github-readme-stats)
-
-### 
-<h2 align="left" >Languages I'm writing </h2>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranayKalyanam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
-
-###
-<h2 align="left" >My Favourite Song </h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315dcom5bsocesplfwdclhgtzn3i&cover_image=true&theme=default&show_offline=false&background_color=545454&interchange=false&bar_color=464946)](https://github.com/kittinan/spotify-github-profile)
-
-
-###-->
+📫 **Connect with me**
+- LinkedIn: https://linkedin.com/in/shivam-pratap-srivastava
+- GitHub: https://github.com/ShivamJNU
+- Email: shivamprataphcs@gmail.com
