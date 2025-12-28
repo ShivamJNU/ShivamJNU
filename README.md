@@ -3,7 +3,7 @@
 I'm a **Software Development Engineer** with a strong backend focus, currently working at **Newton School**. I enjoy building scalable systems, designing clean APIs, and solving complex problems using efficient algorithms.
 
 🎓 **Education**
-- **B.Tech, Jawaharlal Nehru University (2025)**
+- **B.Tech, School Of Engineering, JNU (2025)**
 
 💻 **What I work with**
 - **Languages:** C, C++, Java, JavaScript
